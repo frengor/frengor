@@ -9,9 +9,9 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frengor&show_icons=true&count_private=true&theme=omni" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frengor&show_icons=true&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frengor&layout=compact&theme=omni" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frengor&layout=compact&theme=dracula" />
 </a>
 </p>
