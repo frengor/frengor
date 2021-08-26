@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI) and other [SpigotMC plugins](https://www.spigotmc.org/members/376625/#resources)
 - 🌱 I’m currently learning Rust
+- 🙋🏻‍♂️ Developer of [MultiCore Network](https://multicore.network)
 - 💬 Ask me about my projects
 - 💻 Languages: ☕ Java, PHP, Rust, C#, C, C++, HTML, CSS, JavaScript
 - 😄 Pronouns: he/him
