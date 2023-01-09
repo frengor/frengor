@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm fren_gor, a spigot plugin developer
 
-- 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI) and other [SpigotMC plugins](https://www.spigotmc.org/members/376625/#resources)
+- 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI) and [rust-cc](https://github.com/frengor/rust-cc)
 - 🌱 I’m currently learning Node.js
 - 🙋🏻‍♂️ Developer of [MultiCore Network](https://multicore.network)
 - 💬 Ask me about my projects
