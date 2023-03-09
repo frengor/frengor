@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm fren_gor, a spigot plugin developer
 
 - 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI) and [rust-cc](https://github.com/frengor/rust-cc)
-- 🌱 I’m currently learning Node.js
+- :eyes: Interested in languages and compilers
 - 🙋🏻‍♂️ Developer of [MultiCore Network](https://multicore.network)
 - 💬 Ask me about my projects
 - 💻 Languages: ☕ Java, 🦀 Rust, PHP, C, C++, C#, HTML, CSS, JavaScript
