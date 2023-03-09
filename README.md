@@ -5,7 +5,6 @@
 - 🙋🏻‍♂️ Developer of [MultiCore Network](https://multicore.network)
 - 💬 Ask me about my projects
 - 💻 Languages: ☕ Java, 🦀 Rust, PHP, C, C++, C#, HTML, CSS, JavaScript
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't know CSS so well, but I know enough to use Bootstrap
 
 <p align="center">
