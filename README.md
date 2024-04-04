@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm fren_gor, a Spigot plugin developer and Rust enthusiast
 
-- 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI) and [rust-cc](https://github.com/frengor/rust-cc)
+- 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI), [Libby](https://github.com/AlessioDP/libby) and [rust-cc](https://github.com/frengor/rust-cc)
 - :eyes: Interested in languages and compilers
 - 🙋🏻‍♂️ Developer of [MultiCore Network](https://multicore.network)
 - 💬 Ask me about my projects
