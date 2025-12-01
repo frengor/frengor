@@ -1,4 +1,4 @@
-### Hello there 👋 I'm fren_gor, a Spigot plugin developer and Rust enthusiast
+### Hello there 👋 I'm fren_gor, a Spigot/PaperMC plugin developer and Rust enthusiast
 
 - 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI), [Libby](https://github.com/AlessioDP/libby) and [rust-cc](https://github.com/frengor/rust-cc)
 - :eyes: Interested in languages and compilers
