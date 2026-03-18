@@ -12,6 +12,6 @@
   <img align="center" src="https://github-stats.frengor.com/api/?username=frengor&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-stats.frengor.com/api/top-langs/?username=frengor&layout=compact&theme=github_dark_dimmed&langs_count=8&hide_border=true" />
+  <img align="center" src="https://github-stats.frengor.com/api/top-langs/?username=frengor&layout=compact&theme=github_dark_dimmed&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </a>
 </p>
