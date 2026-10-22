@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I don't know CSS so well, but I know enough to use Bootstrap
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
-  <img align="center" src="https://github-stats.frengor.com/api/?username=frengor&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img align="center" src="./profile/stats.svg" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-stats.frengor.com/api/top-langs/?username=frengor&layout=compact&theme=github_dark_dimmed&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img align="center" src="./profile/top-langs.svg" />
 </a>
 </p>
