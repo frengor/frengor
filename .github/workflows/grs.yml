@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme_light=light_github&theme_dark=github_dark_dimmed&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+          options: username=${{ github.repository_owner }}&layout=compact&theme_light=light_github&theme_dark=github_dark_dimmed&langs_count=10&hide_border=true&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
           path: profile/top-langs.svg
           token: ${{ secrets.README_STATS_TOKEN }}
           fail_on_error: true
