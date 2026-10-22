@@ -9,9 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@f548e57e544e1ff5a4c46bf1e1b8685f8e4a348a
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&show=contributions&theme_light=light_github&theme_dark=github_dark_dimmed&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
@@ -19,14 +19,14 @@ jobs:
           token: ${{ secrets.README_STATS_TOKEN }}
           fail_on_error: true
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme_light=light_github&theme_dark=github_dark_dimmed&langs_count=10&hide_border=true&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
           path: profile/top-langs.svg
           token: ${{ secrets.README_STATS_TOKEN }}
           fail_on_error: true
-      - uses: EndBug/add-and-commit@v11
+      - uses: EndBug/add-and-commit@b71b8bc98e8f0c672eb1ecccfc010cd6921bec7b
         with:
           default_author: github_actions
           add: 'profile/*.svg'
