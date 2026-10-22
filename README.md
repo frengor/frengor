@@ -9,9 +9,9 @@
 
 <p align="center">
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img align="center" src="./profile/stats.svg" />
+  <img align="center" src="./profile/stats.svg?fetch-fresh=1" />
 </a>
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img align="center" src="./profile/top-langs.svg" />
+  <img align="center" src="./profile/top-langs.svg?fetch-fresh=1" />
 </a>
 </p>
