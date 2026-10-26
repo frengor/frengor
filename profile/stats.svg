@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">fren_gor&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 365, Total Commits  (last year) : 263, Total PRs: 173, Total Issues: 14, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 365, Total Commits  (last year) : 261, Total PRs: 173, Total Issues: 14, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.18162691794626;
+        stroke-dashoffset: 71.29396452751918;
       }
     }
   
@@ -135,7 +135,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.18162691794626;
+        stroke-dashoffset: 71.29396452751918;
       }
     }
   
@@ -246,7 +246,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >263</text>
+      >261</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
